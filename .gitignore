@@ -217,3 +217,10 @@ __marimo__/
 
 # Cache
 **/data_cache/
+
+# Node / SvelteKit
+node_modules/
+.svelte-kit/
+build/
+.env
+*.tsbuildinfo
